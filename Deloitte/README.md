@@ -12,7 +12,7 @@ Which factory experienced the most machine downtime.
 Which device types contributed most to the downtime in that factory.
 <br/> 
 <br/>
-![desktop](https://github.com/Shriyaak/Deloitte-Virtual-Internship-Daikibo-Data-Analysis/blob/edb117a6989213867c48e497ba773eda95495e4e/Tableau_Dashboard1.png)
+![desktop](https://github.com/Shriyaak/Virtual_Internships/blob/7c5e25b802dc999e2ab63597317b286fcc175b39/Deloitte/Tableau_Dashboard1.png)
 Findings:
 
 Factory with Highest Downtime: Daikibo Factory Seiko (Osaka, Japan) with 480 minutes of downtime.
