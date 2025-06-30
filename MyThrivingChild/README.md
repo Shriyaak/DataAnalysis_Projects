@@ -6,7 +6,7 @@
 ![dash2](https://github.com/Shriyaak/Virtual_Internships/blob/8460a358d27c50a8e3a8604f31729cc85d1a0154/MyThrivingChild/Screenshot%20(60)%20(1).png)
 
 ## Dashboard 3: 
-![dash3]() 
+![dash3](https://github.com/Shriyaak/Virtual_Internships/blob/9a1c9a9520290b5ddf2e545c8c89075b8bf16bd5/MyThrivingChild/Screenshot%20(61)%20(1).png) 
 
 ## Dashboard 4: 
 ![dash4]() 
