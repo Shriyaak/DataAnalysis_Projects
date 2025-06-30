@@ -1,5 +1,5 @@
 ## Certificate of Completion 
-![cetf](https://github.com/Shriyaak/Virtual_Internships/blob/7c1eaa9940ccc0664c8c0c6ef3d2cdd618a6bca7/BritishAirways/BA_cert.pdf) 
+![cetf](https://github.com/Shriyaak/Virtual_Internships/blob/8063031090f3b95cd753a2f3ee83d73426e36c7f/BritishAirways/certi.png) 
 
 ## Task 1: Sentiment Analysis & Word Cloud Visualization
 This task involves performing sentiment analysis on customer reviews of British Airways using natural language processing techniques. The goal is to extract and visualize insights about customer perceptions through:
@@ -11,12 +11,12 @@ Sentiment Scoring: Using TextBlob to assign polarity scores and classify each re
 KPI Calculation: Aggregating sentiment results into percentage-based KPIs for quick insight into customer satisfaction levels.
 <br/> 
 <br/> 
-![sub1_img1](https://github.com/Shriyaak/-Sentiment-Analysis-of-British-Airways-Reviews/blob/c6b40e3ea839c0be8eec8030926ec0679c596939/sentiment_kpis.png)
+![sub1_img1](https://github.com/Shriyaak/Virtual_Internships/blob/8063031090f3b95cd753a2f3ee83d73426e36c7f/BritishAirways/sentiment_kpis.png)
 
 Word Cloud Generation: Creating a visual representation of commonly used words in the reviews, where:
 <br/> 
 <br/> 
-![sub1_img2](https://github.com/Shriyaak/-Sentiment-Analysis-of-British-Airways-Reviews/blob/c6b40e3ea839c0be8eec8030926ec0679c596939/wordcloud.png)
+![sub1_img2](https://github.com/Shriyaak/Virtual_Internships/blob/8063031090f3b95cd753a2f3ee83d73426e36c7f/BritishAirways/wordcloud.png)
 
 Bigger words appear in dark green (high frequency)
 
