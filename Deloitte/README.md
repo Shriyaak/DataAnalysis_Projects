@@ -1,7 +1,7 @@
 This repository contains my submission for the Deloitte Australia Data Analytics Virtual Internship, hosted on Forage. The project revolves around assisting Daikibo Industrials, a global leader in heavy machinery manufacturing, in analyzing operational data to derive actionable insights.
 <br/>
 ## Certificate of Completion
-![cer](https://github.com/Shriyaak/Deloitte-Virtual-Internship-Daikibo-Data-Analysis/blob/8c9e98bbd9837c4faf9a3138f1ef284f789a6ef8/Screenshot%202025-05-07%20024530.png)
+![cer](https://github.com/Shriyaak/Virtual_Internships/blob/a48315213a141ab1ad0e7afeaccfc663b01c2824/Deloitte/Screenshot%202025-05-07%20024530.png)
 
 ## Task 1: Machine Downtime Analysis Using Tableau
 Objective:
